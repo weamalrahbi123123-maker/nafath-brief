@@ -28,3 +28,9 @@ Resource: What Is Prompt Injection? Understanding Direct Vs. Indirect ... - http
 ## Data:
 While pseudonymization replaces codes that may still be connected to specific individuals for personal information, anonymization eliminates identifying information so that people cannot be identified. Chat logs for a public service assistant should be kept safe, with little personal information and restricted access. The GDPR still requires pseudonymized logs to be protected as personal data. Developers should remove identifying information and determine if people may be recognized using other information before making conversation records anonymous.
 Resource:  Pseudonymization vs Anonymization: What GDPR Actually ... - https://dualitytech.com/blog/pseudonymization-vs-anonymization/
+
+## Misconception in My Track
+There is a common mistake that IPv6 does not much increase the number of available addresses and is just a different notation for IPv4. IPv6 has a far bigger address space than IPv4, which uses 32-bit addresses while IPv6 uses 128-bit addresses. Planning connections for an increasing number of phones, computers, and public-service devices is important. This distinction is explained by the differences between IPv4 and IPv6. IPv6's greater address space by itself does not provide secure or dependable connectivity; it still requires appropriate infrastructure and setup.
+
+## Open Question
+To ensure dependable IPv4 and IPv6 connectivity across various mobile networks and Wi-Fi settings, how can a government mobile application and its network infrastructure be tested?
