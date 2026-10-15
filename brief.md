@@ -5,6 +5,7 @@
 ## Overview:
 Several important IT domains are required for a dependable AI assistant for public services. Software engineering assists in ensuring that changes to APIs are compatible with current applications. Retrieval-Augmented Generation (RAG), a type of artificial intelligence (AI), supports the assistant in responding to inquiries by utilizing relevant government data. Data transferred between the application and its servers is protected by mobile security. As digital services expand, networking provides reliable connections and supports more devices. The assistant is protected from dangerous commands and unwanted access by cybersecurity. Data privacy ensures the secure storage of conversation records and the protection of personal data. All of these fields work together to provide citizens with a safe, dependable, and useful service. In the Networking field, IPv6 addressing is particularly important.
 
+
 ## Software:
 As systems become more complicated, software management has to deal with issues like updating dependent packages. Semantic Versioning addresses these issues by using clear rules for version numbers. MAJOR version to make incompatible API changes, MINOR version to add functionality in a backward compatible manner, PATCH version to make backward compatible bug fixes. This method reduces the possibility of breaking the mobile application or other linked systems and helps developers in clearly communicating API modifications for government assistance.
 Resource: Semantic Versioning 2.0.0 - https://semver.org/
