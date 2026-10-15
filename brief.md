@@ -16,3 +16,15 @@ Resource: What Is RAG in AI? - https://www.coursera.org/articles/what-is-rag-in-
 ## Mobile:
 Apple’s App Transport Security (ATS) is an iOS security feature that protects data by requiring secure HTTPS connections and strong TLS settings for network communication. It helps prevent sensitive information from being exposed during transmission by blocking insecure HTTP connections unless exceptions are configured. Developers should use HTTPS instead of weakening ATS protections. However, ATS does not guarantee complete application security, so developers must also protect sensitive data, verify certificates, and ensure secure communication with trusted servers.
 Resource: What Is App Transport Security? Definition & Examples -https://nhimg.org/glossary/app-transport-security/
+
+## Networking:
+To enable communication over the internet, devices are given addresses using the Internet Protocol (IP). Due to the expansion of the internet, IPv4 employs 32-bit addresses, which provide around billion addresses. IPv6, on the other hand, use 128-bit addresses, providing far greater address space to support more linked devices. Simpler address autoconfiguration is also supported by IPv6. IPv6 can support an increasing number of users and devices for government services, but adoption needs appropriate configuration and compatible network equipment.
+Resource:  Difference Between IPv4 and IPv6 - https://www.geeksforgeeks.org/computer-networks/differences-between-ipv4-and-ipv6/
+
+## Cybersecurity:
+Prompt injection occurs when hackers employ malicious instructions to trick an AI assistant into providing confidential information or performing actions it shouldn't. While indirect prompt injection is hidden in content like documents or websites, direct prompt injection originates from users. Developers should control the AI's access to tools and systems and keep trustworthy instructions apart from outside stuff to lower these dangers. Although these measures increase security, they cannot stop every attack.
+Resource: What Is Prompt Injection? Understanding Direct Vs. Indirect ... - https://www.splunk.com/en_us/blog/learn/prompt-injection.html
+
+## Data:
+While pseudonymization replaces codes that may still be connected to specific individuals for personal information, anonymization eliminates identifying information so that people cannot be identified. Chat logs for a public service assistant should be kept safe, with little personal information and restricted access. The GDPR still requires pseudonymized logs to be protected as personal data. Developers should remove identifying information and determine if people may be recognized using other information before making conversation records anonymous.
+Resource:  Pseudonymization vs Anonymization: What GDPR Actually ... - https://dualitytech.com/blog/pseudonymization-vs-anonymization/
